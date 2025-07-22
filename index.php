@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Beauty Tools Portal</h1>
+        <h1>Portalalat-alat</h1>
         <p>Informasi dan Manajemen Alat Kecantikan</p>
     </header>
     <nav>
